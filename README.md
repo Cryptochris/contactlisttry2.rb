@@ -1,4 +1,4 @@
-# contactlisttry2.rb
+# WorkingContactList.rb
 def ask(question, kind="string")
   print question + " "
   answer = gets.chomp
